@@ -1,0 +1,46 @@
+{
+ "products": [
+    {
+        "id": 1,
+        "nameproduct": "Computer",
+        "price": 55000,
+        "quantity": 3,
+        "selected": false,
+        "disponible": false
+    },
+    {
+        "id": 2,
+        "nameproduct": "Clavier",
+        "price": 3000,
+        "quantity": 10,
+        "selected": false,
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "nameproduct": "Moniteur",
+        "price": 5000,
+        "quantity": 5,
+        "selected": true,
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "nameproduct": "Souris",
+        "price": 1000,
+        "quantity": 15,
+        "selected": true,
+        "disponible": false
+    },
+    {
+        "id": 5,
+        "nameproduct": "Routeur",
+        "price": 4500,
+        "quantity": 2,
+        "selected": true,
+        "disponible": true
+    }
+
+]
+
+}
